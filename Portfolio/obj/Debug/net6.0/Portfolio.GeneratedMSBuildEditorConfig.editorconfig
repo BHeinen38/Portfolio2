@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/CoverLetter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ292ZXJMZXR0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +30,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/Resume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Pages/Shared/_ValidationScriptsPartial.cshtml]

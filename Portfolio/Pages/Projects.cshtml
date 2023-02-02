@@ -1,0 +1,138 @@
+﻿@page
+@model ProjectsModel
+@{
+    ViewData["Title"] = "Projects page";
+}
+<div class="text-left">
+    <div>
+        <div>
+            <h3>CySim Web App</h3>
+            <img src="Images/CySim.png" width="200" height="200">
+            <p>
+                CySim is a plateform that will give students and learners a safe space to sharpen their cyber security skills.
+                There will be tutorials available in application to guide the user through numerous different scenarions. Organizations will
+                also bennefit from CySim as they will be ablle to easily import real scenarios and test students on how they would react. The hardest part of this project
+                has been dealing with roles, the user needs to be able to load different views based of the role the user is registered with. I have been making this work by using Microsoft
+                identity as well as using sign in managers to see what user is currently signed in.
+            </p>
+
+            <p>
+                If you would like to read more about CySim then you can do so <a href="https://www.thegazette.com/state-government/iowa-lawmakers-look-for-ways-to-take-on-cyberattacks/">here.</a>
+                This article mentions CySim at the bottom when it talks about establishing a training center.
+            </p>
+            <p>
+                If you would like to listen to Professor Jacobson speak about CySim to the State of Iowa you can do so
+                <a href="https://www.legis.iowa.gov/committees/meetings/meetingsListComm?groupID=38073&ga=90">here.</a> The recording that you are after involves Professor Jacobson and Aaron Warner, skip the video to 2:40:40.
+            </p>
+
+            <p>You can see the source code to CySim <a href="https://github.com/BHeinen38/CySim">here.</a></p>
+
+            <p>This project uses .Net Core, Razor Pages, MS SQL, Docker, C#, HTML, .CSS, and JavaScript.</p>
+
+            <br />
+        </div>
+        <div>
+            <h3>Jokes Web App</h3>
+            <img src="Images/Jokes.png" width="500" height="200" />
+            <p>
+                This is a simple application that allows user to create, edit, and delete jokes and answers . This project taught me how to add and modify objects in .Net as well as how .Net
+                uses their MVC format in web applications.  
+            </p>
+            <p>You can see the source code of the jokes application <a href="https://github.com/BHeinen38/JokesApp">here.</a></p>
+            <p>This project uses .Net Core, Razor Pages, and MS SQL.</p>
+
+            <br />
+        </div>
+        <div>
+            <h3>Portfolio Website</h3>
+            <img src="Images/NetCore.png" width="200" height="200">
+
+            <p>This is the web application that you are currently looking at. This project did a good job of teaching me the ins and outs of working with razor pages
+            in .Net Core. For this project I have been using the razor pages with a built in model so that I do not need to worry about endpoints and my own models.</p>
+            <p>You can see the source code of the web application <a href="https://github.com/BHeinen38/Portfolio/tree/master">here.</a></p>
+            <p>This project uses .Net Core, Razor Pages, HTML, JavaScript.</p>
+        <hr />
+        <br />
+    </div>
+    <div>
+        <div>
+            <h3>Game Cardinal Mobile App</h3>
+            <img src="Images/GameCardinal.png" width="300" height="200" />
+            <p>
+                This is the project that really started my software engineering career because it really taught me so much about the software
+                development cycle. This project made me learn how to work with MySQL and the MVC framework which is so crucial to software development. But most importantly
+                this is the project that taught me how to work with a team and bring and idea to life. Our idea was a messaging application so that users could both
+                communicate and play games with friends or colleagues. A user had a messaging page, contacts, settings, and four games!
+            </p>
+            <p>You can see the source code of Game Cardinal <a href="https://github.com/BHeinen38/GameCardinal">here.</a></p>
+            <p>This project uses Springboot, Andriod Studio, Postman, MySql, and Java.</p>
+        </div>
+        <div>
+            <h3>Java Game</h3>
+            <img src="Images/JavaGame.png" width="300" height="200" />
+            <p>This was a freelance project that I did that invlovled a game GUI. From the image above, you can see that a user is controlling the white block with
+            standard keyboard input. And the whole purpose of the game is to aviod all of the other flying objects around you. If your
+            health bar runs all the way out, then you loose. This taught me about GUIs as well as how to work with moving objects in java. </p>
+            <p>You can see the source code <a href="https://github.com/BHeinen38/JavaGame">here.</a></p>
+            <p>This project uses only Java and Eclipse.</p>
+        </div>
+        <hr />
+        <br />
+    </div>
+    <div>
+        <div>
+            <h3>Client-Server-App</h3>
+            <img src="Images/client-server.png" width="300" height="200" />
+            <p>
+                This was an application that has a client communicating with a server through multiple TCP ports. The clients job was to send a large number of bytes (0-9, a-z, A-Z) to the server and
+                then the server. Then the server was suppose to record that data and stop recieving the data once the number of bytes was recieved. Finally, the server would let the client know that it recieved
+                the data and that they were both okay to terminate connection now.
+            </p>
+            <p>You can see the source code <a href="https://github.com/BHeinen38/Client-Server-App">here.</a></p>
+            <p>This project uses C, Sockets, and Bindings.</p>
+        </div>
+        <div>
+            <h3>Embedded Systems Roomba</h3>
+            <img src="Images/Roomba.png" width="200" height="200" />
+            <p>This was my first real big project with C. This project is the code for a fully autonomous Roomba that would scan for a specific parking spot
+            and navigate to that spot and park. One really tricky part about this project was that the Roomba had to avoid obstacles along its path and could not make
+            contact with any of them. To combat this issue I had roomba running scans every 15 cm it traveled so that it could always be able to pick up obstacles to avoid.</p>
+            <p>You can see the source code for the Roomba <a href="https://github.com/BHeinen38/Roomba">here.</a></p>
+            <p>This project uses C, IR Sensors, and Interupts.</p>
+        </div>
+        <hr />
+        <br />
+    </div>
+    <div>
+        <div>
+
+            <h3>Python Encyption</h3>
+            <img src="Images/Cryptography.jpeg" width="300" height="200" />
+            <p>This last semester I spent a lot of time learning about cryptography and to better do that I made many encryption and decryption
+            algorithms in python. This taught me about all the different types of cryptography, like symmetric cryptography where you using the same key for
+            encrytion and decryption. Or aysymetric cryptography where you now using a key pair with another person to encrypt and decrypt. The algorithm that I worked
+            with the most regarding asymetric key exchange was diffie hellman. From this class I also learned how important it is to keep your private key a secreet and to beaware of letter frequencies in your
+            cipher text.
+            </p>
+            <p>You can see the source of a couple of python algorithms  <a href="https://github.com/BHeinen38/Cryptography">here.</a></p>
+        </div>
+        <hr />
+        <br />
+    </div>
+    <div>
+        <div>
+
+            <h3>MIPS Processor</h3>
+            <img src="Images/MIPS.png" width="300" height="200" />
+            <p>This was one of the most challenging projects that I have been a part of and took a lot of learning on the fly. Before this class I had zero expereince
+            in assembly language and had to learn from the ground up. I was working on a team of three and our job was to build a complete MIPS processor that could
+            support the MIPS assembly language. So, for example it we passed in an instruction like slt $4, $3, $2 the processor should then set register 4 to 1 if register 3 < register 2.
+            Or if we were to pass in add $3, $2, $1 then the processor should read the data in register 1 and 2 and then add them. Finally, it should then store the results
+            in register 3.</p>
+            <p>You can see the source code to the MIPS processor <a href="https://github.com/BHeinen38/MipsProcessor">here.</a></p>
+            <p>This project used VHDL as well as electrical test beds.</p>
+        </div>
+        <br />
+    </div>
+</div>
+

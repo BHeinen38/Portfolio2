@@ -5,6 +5,62 @@
       "PackagePath": "staticwebassets/Portfolio.bundle.scp.css"
     },
     {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/.DS_Store",
+      "PackagePath": "staticwebassets/Images/.DS_Store"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/CS.png",
+      "PackagePath": "staticwebassets/Images/CS.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/Cryptography.jpeg",
+      "PackagePath": "staticwebassets/Images/Cryptography.jpeg"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/CySim.png",
+      "PackagePath": "staticwebassets/Images/CySim.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/GC.png",
+      "PackagePath": "staticwebassets/Images/GC.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/GameCardinal.png",
+      "PackagePath": "staticwebassets/Images/GameCardinal.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/JavaGame.png",
+      "PackagePath": "staticwebassets/Images/JavaGame.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/Jokes.png",
+      "PackagePath": "staticwebassets/Images/Jokes.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/MIPS.png",
+      "PackagePath": "staticwebassets/Images/MIPS.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/NetCore.png",
+      "PackagePath": "staticwebassets/Images/NetCore.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/Roomba.png",
+      "PackagePath": "staticwebassets/Images/Roomba.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/SelfImage.png",
+      "PackagePath": "staticwebassets/Images/SelfImage.png"
+    },
+    {
+      "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/Images/client-server.png",
+      "PackagePath": "staticwebassets/Images/client-server.png"
+    },
+    {
       "Id": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
