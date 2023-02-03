@@ -1,27 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Portfolio.csproj": {}
+    "C:\\Users\\bailey.heinen\\OneDrive - Proplanner\\Desktop\\Portfolio2\\Portfolio2\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Portfolio.csproj": {
+    "C:\\Users\\bailey.heinen\\OneDrive - Proplanner\\Desktop\\Portfolio2\\Portfolio2\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\bailey.heinen\\OneDrive - Proplanner\\Desktop\\Portfolio2\\Portfolio2\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/Portfolio.csproj",
-        "packagesPath": "/Users/bailey/.nuget/packages/",
-        "outputPath": "/Users/bailey/Desktop/Portfolio_Bailey/Portfolio2/Portfolio/obj/",
+        "projectPath": "C:\\Users\\bailey.heinen\\OneDrive - Proplanner\\Desktop\\Portfolio2\\Portfolio2\\Portfolio\\Portfolio.csproj",
+        "packagesPath": "C:\\Users\\bailey.heinen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bailey.heinen\\OneDrive - Proplanner\\Desktop\\Portfolio2\\Portfolio2\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "/Users/bailey/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\bailey.heinen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/wnRtUiHKOZFWAkXxxQ321RGnL8xR7LwB3qEdRhWWOXEgxAPffz/api": {}
         },
         "frameworks": {
           "net6.0": {
@@ -44,8 +52,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
