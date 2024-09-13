@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{480B20D0-4DDE-42E3-A7BE-5C9F89E6DFD0}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Portfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Pages/CoverLetter.cshtml">
     <Files>
       <File FileName="Pages/Resume.cshtml" />
       <File FileName="Pages/CoverLetter.cshtml.cs" />
-      <File FileName="Pages/CoverLetter.cshtml" Line="21" Column="91" />
+      <File FileName="Pages/CoverLetter.cshtml" Line="12" Column="11" />
       <File FileName="Pages/Projects.cshtml" />
     </Files>
     <Pads>
@@ -17,15 +17,12 @@
         <State name="__root__">
           <Node name="Portfolio">
             <Node name="Portfolio" selected="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Projects.cshtml" expanded="True" />
-                <Node name="Resume.cshtml" expanded="True" />
-              </Node>
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Portfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
