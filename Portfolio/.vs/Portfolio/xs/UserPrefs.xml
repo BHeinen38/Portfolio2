@@ -1,18 +1,31 @@
 ﻿<Properties StartupConfiguration="{480B20D0-4DDE-42E3-A7BE-5C9F89E6DFD0}|Default">
-  <MonoDevelop.Ide.ItemProperties.Portfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Portfolio" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/CoverLetter.cshtml">
+    <Files>
+      <File FileName="Pages/Resume.cshtml" />
+      <File FileName="Pages/CoverLetter.cshtml.cs" />
+      <File FileName="Pages/CoverLetter.cshtml" Line="21" Column="91" />
+      <File FileName="Pages/Projects.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Portfolio">
+            <Node name="Portfolio" selected="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Projects.cshtml" expanded="True" />
+                <Node name="Resume.cshtml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Portfolio PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
