@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RUoj4CbQsaFH3tT7CfEga8Rd41L5ew/CJLttuqnjrq9FGHVpz8IsrbmxIJEs7kJQRYVz/gyRiB6LkdGD6S2SRQ==",
+  "dgSpecHash": "LFe+eEJW8Aahpy7aaM3Z6csExYwkLzahsdZIM3lgFlN/uLjWAnrDFEL+g8OcokRGP5f3ZmX5mb8mBXxrMr+J1w==",
   "success": true,
-  "projectFilePath": "/Users/bailey/Desktop/Portfolio/Portfolio2/Portfolio/Portfolio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/bailey/Documents/Portfolio/Portfolio2/Portfolio/Portfolio.csproj",
+  "expectedPackageFiles": [
+    "/Users/bailey/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/bailey/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/bailey/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
